@@ -16,7 +16,7 @@ public class Ejercicio01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int[] respuestas = {1, 10, 11, 12, 12, 13, 16, 17, 18, 8, 9, 10};
+        int[] respuestas = {1, 10, 11, 12, 12, 13, 16, 17, 18, 8, 9, 10,3 ,4};
         String[] rangos = {"1-5", "6-10", "11-15", "16-20"};
         int[] valoresRangos = new int[4];
         int respuesta;
